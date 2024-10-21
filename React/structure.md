@@ -8,4 +8,4 @@
 
 - node_modules 폴더 : 설치된 모듈들이 모여있는 폴더, 해당 폴더를 지워도 npm i(혹은 install) 명령어를 실행하면 package.json 명세된 dependency들이 설치됨
 
-### js함수 안에서 html 요소들을 작성할수 있는 것을 jsx문법이라고 한다.
+### js함수 안에서 html 요소들을 작성할수 있는 것을 jSX문법이라고 한다.
