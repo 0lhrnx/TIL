@@ -1,6 +1,6 @@
 # React란?
 
-![alt text](image.png)
+![](https://miro.medium.com/v2/resize:fit:1200/0*XCgoYU9sqt95P8J0.png)
 
 - ul 제작을 위한 Javascript 라이브러리
 
